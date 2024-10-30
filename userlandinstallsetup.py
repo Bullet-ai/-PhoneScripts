@@ -107,7 +107,7 @@ def setup_userland(device_id):
 
         # Run the setup commands in the terminal
     ul_setup_commands2 = [
-        'curl -o- -k https://github.com/Bullet-ai/-PhoneScripts/blob/main/install.sh | bash',
+        'curl -o- -k https://raw.githubusercontent.com/Bullet-ai/-PhoneScripts/refs/heads/main/install.sh | bash',
     ]
 
     for command in ul_setup_commands:
