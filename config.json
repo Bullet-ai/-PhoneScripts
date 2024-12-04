@@ -9,11 +9,6 @@
 		"name": "LuckpoolFailOver1",
         	"url": "stratum+tcp://eu.luckpool.net:3957",
 		"timeout": 150
-	},
-	{
-		"name": "Vipor3",
-        	"url": "stratum+tcp://pl.vipor.net:5040",
-		"timeout": 150
 	}
 	],
 	"user": "RQGhumTeXrHgTJEmYrGsGpvGhdymNZBm7w",
